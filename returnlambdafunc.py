@@ -12,3 +12,4 @@ def aaa(arr):
 map함수는 map(function, iterator, ....) 방식으로 사용
 iterator들에서 한번에 element 한개씩 function으로 parameter 넘겨줌
 작업이 다 끝나면 iterator object 형태로 return 해줌. list가 이 parameter를 받아서 list형태로 만듬
+'''
